@@ -1,0 +1,6 @@
+@AgendaFacil.WebAPI_HostAddress = http://localhost:5255
+
+GET {{AgendaFacil.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
